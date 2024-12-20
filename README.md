@@ -1,0 +1,3 @@
+# CSS clip-path Bug Report
+
+This repository demonstrates a common issue encountered when using the CSS `clip-path` property.  The bug showcases unexpected visual results and performance problems stemming from browser inconsistencies in rendering complex shapes and the interactions with other CSS properties like borders and box-shadows.  The `bug.css` file contains the problematic code, and `bugSolution.css` provides potential solutions and workarounds.  This issue is particularly relevant to developers working with intricate shapes and animations using `clip-path`. The solutions offer strategies to improve rendering consistency and performance.
